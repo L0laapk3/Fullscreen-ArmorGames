@@ -2,7 +2,7 @@
 // @name         Fullscreen ArmorGames
 // @namespace    https://github.com/L0laapk3/Fullscreen-ArmorGames
 // @downloadURL  https://rawgit.com/L0laapk3/Fullscreen-ArmorGames/master/fullscreen.user.js
-// @version      1.2
+// @version      1.3
 // @author       L0laapk3
 // @match        *://armorgames.com/play/*
 // ==/UserScript==
@@ -14,6 +14,6 @@ $("#afg-html5-container").css({height: "100vh", width: "100vw"});
 $("#ag3-header").css({zIndex: 0});
 $("#gamefilearea").css({marginLeft: 0});
 $("body").css({overflowX: "hidden"});
-$("#content-canvas > .game-secondary").css({marginTop: "calc(100vh - 150px)"});
+$("#content-canvas").css({paddingTop: "100vh"});
 
 document.styleSheets[0].addRule("::-webkit-scrollbar", "visibility: hidden;");
