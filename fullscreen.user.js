@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fullscreen ArmorGames
 // @namespace    https://github.com/L0laapk3/
-// @downloadURL  https://rawgit.com/L0laapk3/Fullscreen-ArmorGames/master/fullscreen.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/L0laapk3/Fullscreen-ArmorGames/fullscreen.user.js
 // @version      1.3.1
 // @author       L0laapk3
 // @match        *://armorgames.com/play/*

@@ -2,4 +2,4 @@ Plays armorgames games in fullscreen.
 
 requires tampermonkey(chrome) or greasemonkey(firefox).
 
-Install link: https://rawgit.com/L0laapk3/Fullscreen-ArmorGames/master/fullscreen.user.js
+Install link: https://cdn.jsdelivr.net/gh/L0laapk3/Fullscreen-ArmorGames/fullscreen.user.js
